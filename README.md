@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently a second year master's student @ Emory University.
+
 <!--
 **myweiii/myweiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
