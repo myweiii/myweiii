@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently a second year master's student @ Emory University.
-- 📫 How to reach me: 
+- 📫 How to reach me: mingyang.wei@emory.edu
 
 <!--
 **myweiii/myweiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
